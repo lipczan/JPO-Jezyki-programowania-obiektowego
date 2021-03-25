@@ -1,0 +1,5 @@
+Stos OB2 pusty!
+Stos OB3 pusty!
+Szczytowy element OB3: 3
+Obiekty Stos_Tablica: 1
+Obiekty Stos_Lista: 2

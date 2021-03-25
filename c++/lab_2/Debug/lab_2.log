@@ -1,0 +1,7 @@
+﻿  lab_2.cpp
+c:\users\lipczan\onedrive\pulpit\lab_2\lab_2\lab_2.cpp(74): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\lipczan\onedrive\pulpit\lab_2\lab_2\lab_2.cpp(89): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\lipczan\onedrive\pulpit\lab_2\lab_2\lab_2.cpp(110): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\lipczan\onedrive\pulpit\lab_2\lab_2\lab_2.cpp(124): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\lipczan\onedrive\pulpit\lab_2\lab_2\class_3.h(116): warning C4715: "Tree<int>::contains”: niewszystkie ścieżki kodu zwracają wartość
+  lab_2.vcxproj -> C:\Users\Lipczan\OneDrive\Pulpit\lab_2\Debug\lab_2.exe

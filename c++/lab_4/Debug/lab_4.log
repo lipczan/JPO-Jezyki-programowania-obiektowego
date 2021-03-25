@@ -1,0 +1,4 @@
+﻿  lab_4.cpp
+c:\users\lipczan\onedrive\pulpit\lab_4\header_7.h(16): warning C4244: "inicjowanie": konwersja z "__int64" do "int", możliwa utrata danych
+c:\users\lipczan\onedrive\pulpit\lab_4\header_8.h(27): warning C4244: "inicjowanie": konwersja z "__int64" do "int", możliwa utrata danych
+  lab_4.vcxproj -> C:\Users\Lipczan\OneDrive\Pulpit\lab_4\Debug\lab_4.exe
